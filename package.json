@@ -1,0 +1,17 @@
+{
+  "name": "roblox-gamepass-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Roblox gamepass APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
